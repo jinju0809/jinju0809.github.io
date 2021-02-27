@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Nobody else&#39;s</title>
+    <link>https://jinju0809.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Nobody else&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Thu, 25 Feb 2021 16:43:01 +0900</lastBuildDate><atom:link href="https://jinju0809.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo &#43; Github pages 로 블로그 만들기</title>
+      <link>https://jinju0809.github.io/post/testing/</link>
+      <pubDate>Thu, 25 Feb 2021 16:43:01 +0900</pubDate>
+      
+      <guid>https://jinju0809.github.io/post/testing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
