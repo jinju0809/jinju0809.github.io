@@ -6,7 +6,27 @@
     <description>Recent content in Hugo on Nobody else&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 25 Feb 2021 16:43:01 +0900</lastBuildDate><atom:link href="https://jinju0809.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Feb 2021 17:55:32 +0900</lastBuildDate><atom:link href="https://jinju0809.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>이미지를 넣어보자</title>
+      <link>https://jinju0809.github.io/post/test3/</link>
+      <pubDate>Thu, 25 Feb 2021 17:55:32 +0900</pubDate>
+      
+      <guid>https://jinju0809.github.io/post/test3/</guid>
+      <description>이미지를 넣어보자 오우.. 이미지가 안되고 있따.
+  내가 갖고있는 이미지를 넣어보자 깜찍한 우리집 고양이</description>
+    </item>
+    
+    <item>
+      <title>Typora로 글을 써보자!</title>
+      <link>https://jinju0809.github.io/post/test2/</link>
+      <pubDate>Thu, 25 Feb 2021 17:33:18 +0900</pubDate>
+      
+      <guid>https://jinju0809.github.io/post/test2/</guid>
+      <description>이번 포스트는 TYPORA 블로그는 만들었다.
+글을 써야하는데 글은 어떻게 쓰지?</description>
+    </item>
+    
     <item>
       <title>Hugo &#43; Github pages 로 블로그 만들기</title>
       <link>https://jinju0809.github.io/post/testing/</link>
