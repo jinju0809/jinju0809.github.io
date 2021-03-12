@@ -53,7 +53,7 @@
 <meta name="twitter:image" content="https://jinju0809.github.io/images/site-feature-image.png"/>
 
 <meta name="twitter:title" content="React를 사용한 포트폴리오 연습"/>
-<meta name="twitter:description" content="REACT를 또 배워요? 갑자기 왜 리액트에 꽂힌건지.. 리액트를 배우기 시작했다."/>
+<meta name="twitter:description" content="REACT 공부? 무턱대고 해보기 갑자기 왜 리액트에 꽂힌건지.. 리액트를 배우기 시작했다."/>
 
 </head>
 <body><div class="sidebar animated fadeInDown ">
@@ -154,13 +154,19 @@
                 
             </div>
 
-            <h3 id="react를-또-배워요">REACT를 또 배워요?</h3>
+            <h3 id="react-공부-무턱대고-해보기">REACT 공부? 무턱대고 해보기</h3>
 <p>갑자기 왜 리액트에 꽂힌건지.. 리액트를 배우기 시작했다.</p>
+<p>배운다기 보다는 직접 해보면서 경험하는 것에 가깝다. 강의를 찾아서 들었으나 우선적인 목표는 포트폴리오 페이지를 작성하는 것으로 state니 component니 하는 아이들은 뒤로 미루었다. 페이지의 구성을 대충 완성하고 난 뒤에 수정하도록 하자. 지금은 그냥 html과 다름이 없다.</p>
+<p>리액트는 UI를 만들기 위한 자바스크립트 라이브러리 중 하나라고 한다.</p>
+<p>JQUERY의 형제자매급인듯..</p>
 <p>gh-pages 사용하기</p>
-<p>npm install &ndash;save gh-pages</p>
+<p>내가 쓰려는 레포와 연결을 위해 gh-pages 패키지를 설치한다.</p>
+<blockquote>
+<p>$ npm install &ndash;save gh-pages</p>
+</blockquote>
 <p>이후 package.json 수정</p>
 <blockquote>
-<p>&ldquo;homepage&rdquo;: &ldquo;<a href="https://xxx.github.com">https://xxx.github.com</a>&rdquo;,</p>
+<p>&ldquo;homepage&rdquo;: &ldquo;<a href="https://xxx.github.io/xxx%22,">https://xxx.github.io/xxx&quot;,</a></p>
 <p>//scripts</p>
 <p>&ldquo;predeploy&rdquo;: &ldquo;npm run build&rdquo;,</p>
 <p>&ldquo;deploy&rdquo;: &ldquo;gh-pages -d build&rdquo;</p>
@@ -170,6 +176,18 @@
 <p>$ npm run deploy</p>
 </blockquote>
 <p>해주면 끝!</p>
+<p>그런데 이렇게 하고 나니 localhost로 실행을 하면 경로에 레포이름이 붙어버려서 이미지를 불러올 수 없는 상황이 생겼다.</p>
+<blockquote>
+<p>기존 로컬호스트 경로: localhost:3000/</p>
+<p>깃헙 연결 후 경로: localhost:3000/xxx</p>
+<p>기존에 이미지를 불러온 경로: localhost:3000/images/test.jpg</p>
+<p>깃헙 연결 후 이미지 경로: localhost:3000/xxx/images/test.jpg</p>
+</blockquote>
+<p>상대경로?로 바꿔주어야겠다 싶어 바꿔주었다.</p>
+<blockquote>
+<p>기존 이미지 태그 : &lt; img src=&ldquo;images/test.jpg&rdquo;/ &gt;</p>
+<p>상대경로로 바꿔준 이미지 태그: &lt; img src={process.env.PUBLIC_URL + &ldquo;/images/test.jpg&rdquo; /&gt;</p>
+</blockquote>
 </div>
         <div class="post-footer">
             <div class="info">
