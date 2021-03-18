@@ -2,13 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jinju0809.github.io/categories/basic/</loc>
+    <lastmod>2021-03-18T11:08:01+09:00</lastmod>
+  </url><url>
+    <loc>https://jinju0809.github.io/tags/blog/</loc>
+    <lastmod>2021-03-18T11:08:01+09:00</lastmod>
+  </url><url>
+    <loc>https://jinju0809.github.io/categories/</loc>
+    <lastmod>2021-03-18T11:08:01+09:00</lastmod>
+  </url><url>
+    <loc>https://jinju0809.github.io/tags/git/</loc>
+    <lastmod>2021-03-18T11:08:01+09:00</lastmod>
+  </url><url>
+    <loc>https://jinju0809.github.io/</loc>
+    <lastmod>2021-03-18T11:08:01+09:00</lastmod>
+  </url><url>
+    <loc>https://jinju0809.github.io/post/</loc>
+    <lastmod>2021-03-18T11:08:01+09:00</lastmod>
+  </url><url>
+    <loc>https://jinju0809.github.io/tags/sourcetree/</loc>
+    <lastmod>2021-03-18T11:08:01+09:00</lastmod>
+  </url><url>
+    <loc>https://jinju0809.github.io/tags/</loc>
+    <lastmod>2021-03-18T11:08:01+09:00</lastmod>
+  </url><url>
+    <loc>https://jinju0809.github.io/post/0318/</loc>
+    <lastmod>2021-03-18T11:08:01+09:00</lastmod>
+  </url><url>
     <loc>https://jinju0809.github.io/contact/contactinfo/</loc>
     <lastmod>2021-03-05T15:16:47+09:00</lastmod>
   </url><url>
     <loc>https://jinju0809.github.io/contact/</loc>
-    <lastmod>2021-03-05T15:16:47+09:00</lastmod>
-  </url><url>
-    <loc>https://jinju0809.github.io/</loc>
     <lastmod>2021-03-05T15:16:47+09:00</lastmod>
   </url><url>
     <loc>https://jinju0809.github.io/about/</loc>
@@ -17,19 +41,10 @@
     <loc>https://jinju0809.github.io/about/about1/</loc>
     <lastmod>2021-03-05T15:13:59+09:00</lastmod>
   </url><url>
-    <loc>https://jinju0809.github.io/post/</loc>
-    <lastmod>2021-02-27T15:21:01+09:00</lastmod>
-  </url><url>
     <loc>https://jinju0809.github.io/post/test4/</loc>
     <lastmod>2021-02-27T15:21:01+09:00</lastmod>
   </url><url>
-    <loc>https://jinju0809.github.io/tags/blog/</loc>
-    <lastmod>2021-02-25T17:55:32+09:00</lastmod>
-  </url><url>
     <loc>https://jinju0809.github.io/tags/hugo/</loc>
-    <lastmod>2021-02-25T17:55:32+09:00</lastmod>
-  </url><url>
-    <loc>https://jinju0809.github.io/tags/</loc>
     <lastmod>2021-02-25T17:55:32+09:00</lastmod>
   </url><url>
     <loc>https://jinju0809.github.io/post/test3/</loc>
@@ -37,15 +52,6 @@
   </url><url>
     <loc>https://jinju0809.github.io/post/test2/</loc>
     <lastmod>2021-02-25T17:33:18+09:00</lastmod>
-  </url><url>
-    <loc>https://jinju0809.github.io/categories/basic/</loc>
-    <lastmod>2021-02-25T16:43:01+09:00</lastmod>
-  </url><url>
-    <loc>https://jinju0809.github.io/categories/</loc>
-    <lastmod>2021-02-25T16:43:01+09:00</lastmod>
-  </url><url>
-    <loc>https://jinju0809.github.io/tags/git/</loc>
-    <lastmod>2021-02-25T16:43:01+09:00</lastmod>
   </url><url>
     <loc>https://jinju0809.github.io/post/testing/</loc>
     <lastmod>2021-02-25T16:43:01+09:00</lastmod>
